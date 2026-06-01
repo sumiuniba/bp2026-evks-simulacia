@@ -1,0 +1,1 @@
+# bp2026-evolucne-vysvetlenia-kognitivnych-skresleni-simulacia
