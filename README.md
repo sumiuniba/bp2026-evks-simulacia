@@ -14,7 +14,7 @@ Hlavným cieľom tejto simulácie je z evolučnej perspektívy analyzovať vplyv
 
 Simulácia bola implementovaná v jazyku Python a využíva nasledujúce knižnice:
 
-- 'mesa' (verzia 3.3.1) — agentovo orientované simulovanie
+- `mesa` (verzia 3.3.1) — agentovo orientované simulovanie
 - 'solara' — vizualizácia a interaktívne webové rozhranie
 - 'pandas' — zber a analýza vygenerovaných dát
 
