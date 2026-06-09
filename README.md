@@ -15,11 +15,11 @@ Hlavným cieľom tejto simulácie je z evolučnej perspektívy analyzovať vplyv
 Simulácia bola implementovaná v jazyku Python a využíva nasledujúce knižnice:
 
 - `mesa` (verzia 3.3.1) — agentovo orientované simulovanie
-- 'solara' — vizualizácia a interaktívne webové rozhranie
-- 'pandas' — zber a analýza vygenerovaných dát
+- `solara` — vizualizácia a interaktívne webové rozhranie
+- `pandas` — zber a analýza vygenerovaných dát
 
 ## Inštalácia a spustenie
 
 1. Nainštalovanie použitých knižníc
-2. Spustenie vizualizácie simulácie: Pre spustenie vizualizácie zadajte do terminálu príkaz solara 'run visualization.py'
-3. Spustenie viacerých iterácií: Pre spustenie viacerých iterácií stačí spustiť 'run_simulation.py'. V tomto súbore je možné upraviť parametre ako počet iterácií a počet krokov simulácie.
+2. Spustenie vizualizácie simulácie: Pre spustenie vizualizácie zadajte do terminálu príkaz solara `run visualization.py`
+3. Spustenie viacerých iterácií: Pre spustenie viacerých iterácií stačí spustiť `run_simulation.py`. V tomto súbore je možné upraviť parametre ako počet iterácií a počet krokov simulácie.
