@@ -22,5 +22,7 @@ Simulácia bola implementovaná v jazyku Python a využíva nasledujúce knižni
 
 1. Nainštalovanie použitých knižníc
 2. Spustenie vizualizácie simulácie: Pre spustenie vizualizácie zadajte do terminálu príkaz:
+   
    `solara run visualization.py`
+   
 4. Spustenie viacerých iterácií: Pre spustenie viacerých iterácií stačí spustiť `run_simulation.py`. V tomto súbore je možné upraviť parametre ako počet iterácií a počet krokov simulácie.
